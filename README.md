@@ -1,5 +1,4 @@
-<ul>
-  👩🏻‍💻 Crafting: Frontend for Intelibly
+👩🏻‍💻 Crafting: Frontend for Intelibly
 
 ⚙️ Languages: HTML, CSS, JavaScript, Java, Elixir
 
@@ -9,7 +8,6 @@
 
 🛠️ Tools: Git, Node, Yarn, Prettier, Conventional Commits, Figma
 
-📮 Ping Me: cyphrsylph@gmail.com
-</ul>
+
 
   
