@@ -1,12 +1,12 @@
-👩🏻‍💻 Crafting: Frontend for Intelibly
+👩🏾‍💻 Crafting: Frontend for Intelibly
 
-⚙️ Languages: HTML, CSS, JavaScript, Java, Elixir
+⚙️ Languages: HTML, CSS, JavaScript, Python
 
-📐 Frameworks: Bootstrap, Tailwind, Jest
+📐 Frameworks: Bootstrap, Tailwind
 
-📚 Libraries: React, MUI, Framer Motion, Testing Library
+📚 Libraries: React, MUI, Testing Library
 
-🛠️ Tools: Git, Node, Yarn, Prettier, Conventional Commits, Figma
+🛠️ Tools: Git, Node, Yarn, Prettier, Figma
 
 
 
