@@ -1,8 +1,8 @@
 # 🏄🏿‍♀️ Sandra Adeyinka
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Devloper`**
 
-Hey there, I'm Sandra, a full-stack developer weaving my vision of the digital realm step by step. Every coding project I undertake is a ground-up endeavor, involving meticulous planning, design, and tackling real-world issues with code. As a young woman deeply passionate about software development, I'm crafting my narrative into the projects I build. Join me on this exciting journey of coding and creating a space where innovation meets creativity in the ever-evolving world of software development.
+Hi, I'm Sandra, a self-taught software developer, building my digital world one step at a time. Every coding project I take on is a start-from-scratch adventure, where I plan, design, and solve real-world problems with code. As a young woman passionate about software development, I'm pouring my heart into the projects I create. Come join me on this thrilling journey of coding, where I'm crafting a space where innovation and creativity come together in the ever-evolving world of software development. Let's make tech simple, exciting, and accessible!
 
 ---
 
