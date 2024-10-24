@@ -2,12 +2,11 @@
 
 <h1> Hi there! 👋 I'm Sandra, a Fullstack Software Developer.</h1>
 
-<h2> Creative degsiner and Coding Enthusiast 🚀 </h2>
+<h2> Creative designer and Coding Enthusiast 🚀 </h2>
 
 <ul>
   <li>🌱 Currently diving into the world of React and Node.js </li>
   <li>🔭 Improving my skills in JavaScript</li>
-  <li>👩🏾‍💻 My portfolio https://sandraadeyinka.netlify.app </li>
 </ul>
 
 <p> Recently graduated from Le Wagon's nine-week intensive Web Development Bootcamp. </p>
